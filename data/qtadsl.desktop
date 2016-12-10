@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QtAdsl
+Exec=qtadsl
+Icon=qtadsl
+Categories=Network;
+Comment=Usb modem tool
+Comment[tr]=Usb modem aracı
+Terminal=false
+Type=Application
+StartupNotify=true

@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="connection" >
+    <file>icons/disconnect.png</file>
+    <file>icons/connect.png</file>
+  </qresource>
+  <qresource prefix="icons" >
+    <file>icons/exit.png</file>
+    <file>icons/help.png</file>
+    <file>icons/preferences_system.png</file>
+    <file>icons/qtadsl.png</file>
+  </qresource>
+</RCC>
